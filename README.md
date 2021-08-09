@@ -1,2 +1,2 @@
 # Python_Projects_for_Beginners
-Looking for beginner level python projects or Capstone ideas? Then step right in.
+These are some of the projects I worked on when while learning python. I have also included a section on Capstone which provides a list of useful python capstone ideas with links to possible solutions.
